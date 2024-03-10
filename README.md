@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi there, I'm Massiel - aka [Massi]
 
-<!--
-**massicollado/massicollado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in **Atom**
+- 🌱 I’m currently learning **Dessign Patterns**
+- 👯 I’m looking to collaborate on **AI Projects**
+- 📫 How to reach me: **colladomassiel@gmail.com**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **[Un dato curioso sobre ti]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools:
+
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
+- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- ![Dialogflow](https://img.shields.io/badge/-Dialogflow-333333?style=flat&logo=dialogflow)
+- ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb)
+- ![Meta Cloud API](https://img.shields.io/badge/-Cloud%20API%20de%20Meta-333333?style=flat&logo=meta)
+
+
+## 📫 How to Reach Me
+
+- Email: colladomassiel@gmail.com
+- LinkedIn: [Massiel Collado](https://www.linkedin.com/in/massi-collado/)
+

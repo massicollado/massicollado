@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **AI Projects**
 - 📫 How to reach me: **colladomassiel@gmail.com**
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **[Un dato curioso sobre ti]**
+- ⚡ Fun fact: **My dreams often turn into spontaneous debugging sessions. I've actually solved coding issues in my sleep more than once. Seems like my subconscious might just be my most effective debugging tool.**
 
 ## 🛠 Languages and Tools:
 

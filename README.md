@@ -20,7 +20,7 @@
 - ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb)
-- ![Meta Cloud API](https://img.shields.io/badge/-Cloud%20API%20de%20Meta-333333?style=flat&logo=meta)
+- ![Meta Cloud API](https://img.shields.io/badge/-Cloud%20API%20Meta-333333?style=flat&logo=meta)
 
 
 ## 📫 How to Reach Me

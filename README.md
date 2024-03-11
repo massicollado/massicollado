@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Massiel - aka [Massi]
+# 👋 Hi there, I'm Massiel Collado - aka [Massi]
 
 ## 👩‍💻 About Me
 
 - 🔭 I’m currently working in **Atom**
 - 🌱 I’m currently learning **Dessign Patterns**
 - 👯 I’m looking to collaborate on **AI Projects**
-- 📫 How to reach me: **colladomassiel@gmail.com**
+- 📍 I'm from Nicaragua 🇳🇮
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **My dreams often turn into spontaneous debugging sessions. I've actually solved coding issues in my sleep more than once. Seems like my subconscious might just be my most effective debugging tool.**
 
